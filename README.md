@@ -26,7 +26,16 @@ DoOne combines:
 Six factors. Fixed weights. One recommendation. AI doesn't make the decision — math does. AI only explains it in plain language.
 
 ---
+## Architecture
 
+### High-Level Design (HLD)
+
+![DoOne High Level Design](https://raw.githubusercontent.com/aerostorm19/DoOne/main/HLD-DoOne.png)
+
+### Low-Level Design (LLD)
+
+![DoOne Low Level Design](https://raw.githubusercontent.com/aerostorm19/DoOne/main/DoOne.png)
+---
 ## Features
 
 - **NowCard** — single focused recommendation with a plain-language reason

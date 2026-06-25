@@ -66,7 +66,7 @@ Six factors. Fixed weights. One recommendation. AI doesn't make the decision —
 | Agent | Model | Role |
 |---|---|---|
 | Planner | Claude Sonnet 4.6 | Breaks jobs into sessions with time-balanced planning |
-| Formatter | Claude Haiku 4.5 | Writes one warm sentence explaining the suggestion |
+| Formatter | Claude Haiku 4.5 | Writes one warm sentence explaining the suggestion or Qwen2.5-7B-Instruct (Local via Ollama) ||
 | Insight | Claude Haiku 4.5 | Generates weekly productivity summary |
 | Memory | Claude Haiku 4.5 | Turns behavior patterns into human-readable observations |
 
